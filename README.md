@@ -1,4 +1,4 @@
 # DJ_-bot
 
-#Objectif
+# Objectif
 plays music on demand from Spotify, YouTube, or SoundCloud using Discord.js
