@@ -1,0 +1,24 @@
+{
+  "name": "dj_-bot",
+  "version": "1.0.0",
+  "description": "plays music on demand from Spotify, YouTube, or SoundCloud using Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShHaWkK/DJ_-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShHaWkK/DJ_-bot/issues"
+  },
+  "homepage": "https://github.com/ShHaWkK/DJ_-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "distube": "^4.2.0"
+  }
+}
